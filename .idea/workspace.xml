@@ -5,16 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d9c4d5c-3f2e-4ba4-93d6-c38a568a8733" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_12_2023_16_56_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_12_2023_16_56__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/controllers/rotas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/App/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/rotas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/App/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/controllers/rotas.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/controllers/rotas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/App/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/App/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/App/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/App/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/App/vite-project/.eslintrc.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/App/vite-project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/App/vite-project/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/App/vite-project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/App/vite-project/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/App/vite-project/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/App/vite-project/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/App/vite-project/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/App/vite-project/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/App/vite-project/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/App/vite-project/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/App/vite-project/vite.config.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,14 +55,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Albino Ferreira/Desktop/portefolio&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Albino Ferreira/Desktop/IMAG-V/LOADINGPAGE/models/database.py"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IMAG_CHAT" />
@@ -107,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702607753610</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adicionado arquivos para poder rodar o react na minha máquina">
+      <created>1702773764006</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702773764006</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +139,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="colocando o backend de python com o framework &quot;flask&quot; na qual só vai rodar apenas na máquina que tem flask e python consegue rodar. não coloquei nenhum templates ou algo do genero dizendo também que os html deve ficar na pasta &quot;templates&quot; e css, js, imagens e outros na pasta &quot;static&quot;" />
     <MESSAGE value="adicionando mais uma rota" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionando mais uma rota" />
+    <MESSAGE value="adicionado arquivos para poder rodar o react na minha máquina" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicionado arquivos para poder rodar o react na minha máquina" />
   </component>
 </project>
