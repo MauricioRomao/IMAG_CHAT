@@ -1,0 +1,116 @@
+.container {
+
+
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 650px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+
+}
+
+.formulario {
+    border: 1px solid rgb(46, 126, 231);
+    box-shadow: 5px 10px 4cap -1px black;
+    border-radius: 15px;
+    width: 500px;
+    text-align: center;
+    margin-left: 100px;
+    height: 400px;
+    margin-top: 140px;
+    border-top: none;
+
+}
+
+.page_function {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.page_function button {
+    border-radius: 10px;
+    margin-left: 20px;
+    padding: 10px;
+    width: 90%;
+    outline: white;
+    color: white;
+    background-color: rgb(150, 150, 150);
+    border: 1px solid white;
+    font-size: 19px;
+    cursor: pointer;
+}
+
+.page_function .active {
+    background-color: rgb(46, 126, 231);
+}
+
+.form_ {
+
+    padding: 10px;
+    margin-top: 40px;
+}
+
+.form_ input {
+    padding: 15px;
+    margin-top: 40px;
+    font-size: 1em;
+    width: 300px;
+    height: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+
+}
+
+.form_ input:focus {
+    background-color: rgb(163, 178, 197);
+    border: white;
+    outline: white;
+    border-radius: 5px;
+    transition: 0.5s ease-in-out;
+    color: rgb(4, 5, 36);
+
+}
+
+.net_descr {
+
+    width: 400px;
+    height: 400px;
+    margin-right: 200px;
+    margin-top: 135px;
+}
+
+.social {
+    padding: 10px;
+    text-align: center;
+    font-family: sans-serif;
+
+}
+
+.social a {
+    font-size: 18px;
+    background-color: rgba(110, 105, 105, 0.3);
+    height: 50px;
+    display: flex;
+    font-family: 'roboto';
+    align-items: center;
+    color: rgb(2, 13, 29);
+    transition: background 0.3s ease-in-out;
+    justify-content: center;
+
+
+}
+.social a:hover {
+    background-color: rgb(46, 126, 231) ;
+    color: white;
+}
+
+.img_social {
+    margin-top: 33px;
+    rotate: 23deg;
+
+
+}
